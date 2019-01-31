@@ -1,0 +1,7 @@
+## This file contains options passed
+## to the vault binary on startup.
+## Please see https://www.vaultproject.io/docs/
+## for more information.
+
+## vault configuration directives
+OPTIONS="-config=/etc/vault.d"
