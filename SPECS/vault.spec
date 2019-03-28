@@ -7,7 +7,7 @@
 
 Name:           vault
 Version:        1.1.0
-Release:        0%{?dist}
+Release:        1%{?dist}
 Summary:        Manage Secrets and Protect Sensitive Data.
 
 Group:          System Environment/Daemons

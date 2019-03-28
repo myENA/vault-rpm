@@ -7,6 +7,8 @@ After=network-online.target
 [Service]
 User=vault
 Group=vault
+LimitNOFILE=65536
+EnvironmentFile=-/etc/sysconfig/vault
 ProtectSystem=full
 ProtectHome=read-only
 PrivateTmp=yes
