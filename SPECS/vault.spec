@@ -6,8 +6,8 @@
 %define debug_package  %{nil}
 
 Name:           vault
-Version:        1.1.2
-Release:        1%{?dist}
+Version:        1.1.3
+Release:        0%{?dist}
 Summary:        Manage Secrets and Protect Sensitive Data.
 
 Group:          System Environment/Daemons
