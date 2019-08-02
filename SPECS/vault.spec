@@ -6,7 +6,7 @@
 %define debug_package  %{nil}
 
 Name:           vault
-Version:        1.1.3
+Version:        1.2.0
 Release:        0%{?dist}
 Summary:        Manage Secrets and Protect Sensitive Data.
 
